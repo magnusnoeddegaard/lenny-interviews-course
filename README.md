@@ -144,7 +144,7 @@ Contributions are welcome! Feel free to:
 
 A huge thank you to:
 
-- **[Lenny Rachitsky](https://www.lennyspodcast.com/)** for creating an incredible podcast full of insights from the best minds in product, growth, and leadership — and for making the transcripts available for educational use.
+- **[Lenny Rachitsky](https://www.lennyspodcast.com/)** for creating an incredible podcast full of insights from the best minds in product, growth, and leadership - and for making the transcripts available for all of us.
 - **[Claire Vo](https://github.com/ChatPRD)** for putting together the [lennys-podcast-transcripts](https://github.com/ChatPRD/lennys-podcast-transcripts) GitHub repo, making it easy to build tools like this one.
 
 ## License

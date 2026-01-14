@@ -9,12 +9,12 @@ Lenny's Podcast features interviews with world-class product leaders and growth 
 ## Repository Structure
 
 ```
-episodes/
-├── guest-name/
-│   └── transcript.md
-├── another-guest/
-│   └── transcript.md
-└── ...
+transcripts/
+├── index.md              # Episode metadata index (search this first)
+├── README.md             # This file
+└── episodes/
+    └── [guest-name]/
+        └── transcript.md # Full episode transcript
 ```
 
 Each episode has its own folder named after the guest(s), containing a `transcript.md` file with:
@@ -31,6 +31,47 @@ Each episode has its own folder named after the guest(s), containing a `transcri
    - `channel`: Channel name
 
 2. **Transcript Content** - Full text transcript of the episode
+
+## Episode Index
+
+The `index.md` file contains structured metadata for all episodes in a searchable table format. **Always consult this index first** before doing full-text transcript searches.
+
+### Index Schema
+
+| Field | Description | Example |
+|-------|-------------|---------|
+| **Guest** | Name of the podcast guest | Shreyas Doshi |
+| **Title** | Episode title | The art of decision-making |
+| **Topics** | 3-5 standardized topic tags | prioritization, decision-making, career-growth |
+| **Companies** | Companies discussed or mentioned | Stripe, Google, Twitter |
+| **Frameworks** | Named methodologies or mental models | LNO framework, high-agency mindset |
+| **Expertise** | Guest's professional focus area | product leadership |
+
+### Topic Taxonomy
+
+Episodes are tagged with standardized topics for consistent filtering:
+
+**Strategy & Business:** `positioning`, `pricing`, `go-to-market`, `strategy`, `market-research`
+
+**Growth:** `growth`, `acquisition`, `activation`, `retention`, `monetization`, `virality`
+
+**Product:** `product-management`, `roadmaps`, `product-sense`, `experimentation`, `discovery`, `design`
+
+**Leadership & Teams:** `leadership`, `hiring`, `culture`, `team-building`, `feedback`
+
+**Career:** `career-growth`, `job-search`, `negotiation`, `personal-branding`
+
+**Skills:** `decision-making`, `communication`, `storytelling`, `writing`, `productivity`
+
+**Startup:** `fundraising`, `founding`, `scaling`, `pivots`
+
+**Technology:** `ai`, `platforms`, `engineering`
+
+### Updating the Index
+
+When adding new episodes:
+1. Add the transcript to `episodes/[guest-name]/transcript.md`
+2. Add a new row to `index.md` with guest, title, topics (3-5 from taxonomy), companies, frameworks, and expertise
 
 ## Usage with AI
 
@@ -84,7 +125,7 @@ This archive contains **284 transcripts** from Lenny's Podcast episodes.
 
 ## Data Sources
 
-- **Transcripts**: Sourced from the Lenny's Podcast Transcripts Archive
+- **Transcripts**: Sourced from the [Lenny's Podcast Transcripts Archive](https://github.com/ChatPRD/lennys-podcast-transcripts)
 - **Metadata**: Extracted from the [Lenny's Podcast YouTube channel](https://www.youtube.com/@LennysPodcast)
 
 ## Contributing
