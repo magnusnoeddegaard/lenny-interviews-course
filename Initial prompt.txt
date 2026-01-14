@@ -1,0 +1,39 @@
+Initial prompt:
+
+Lenny Rachitsky just released all his podcast episodes in a github repo with the transcripts.
+  It's located here: https://github.com/ChatPRD/lennys-podcast-transcripts
+
+  I want to turn it into an interactive learning course where the user can simply ask about a topic and get Claude
+  Code to help them learn about that topic, by giving them curated content from lenny, ask them questions, etc.
+
+
+
+  I would like if users could have a couple of easy commands, where they can simply write something like /learn, and
+  then the interactive mode starts where claude code starts asking them what topic they want to learn about, get
+  Lenny's content, present the knowledge, ask the users questions to help them understand, and try to apply it to
+  their context, etc.
+
+
+
+  And /learning-plan could be that it would create a learning plan for the user based on how much time the user has,
+  what their current knowledge of the topic is, etc. It would have to ask them questions about these things to be able
+  to make a great output. The output would be a folder with the learning plan overview in a markdown file with as
+  much context about the user as possible, and markdown files for each module.
+
+
+
+  Maybe you can help me think of some more things that would be nice to have as /commands.
+
+
+
+  Users should be able to either download a github repo or install a package to be able to interact with it.
+
+  Users should also be able to upload a couple of files about their context (company, team and product info) so that
+  Claude Code can provide more detailed responses.
+
+
+
+  Can you please help me build out the above? Some of the things are probably a bit vague right now, so feel free to
+  ask me questions, but let's start with creating a plan for how we can do this. I want to keep it fairly simple for
+  now, and focus on how we can create that interactive experience with claude code (most likely using skills for the
+  /commands?).
