@@ -12,8 +12,8 @@ An interactive learning experience powered by Claude Code, built on 284 episodes
 
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/lenny-course.git
-cd lenny-course
+git clone https://github.com/magnusnoeddegaard/lenny-interviews-course.git
+cd lenny-interviews-course
 
 # Initialize the transcripts submodule
 git submodule update --init --recursive
@@ -92,7 +92,7 @@ Claude will read these files to tailor advice and examples to your specific situ
 ## Project Structure
 
 ```
-lenny-course/
+lenny-interviews-course/
 ├── .claude/
 │   └── skills/           # Command definitions
 │       ├── learn/
@@ -140,10 +140,12 @@ Contributions are welcome! Feel free to:
 - Improve existing skill prompts
 - Suggest new features
 
-## Attribution
+## Acknowledgments
 
-Transcript content is from [Lenny's Podcast](https://www.lennyspodcast.com/).
-Transcripts provided by [ChatPRD/lennys-podcast-transcripts](https://github.com/ChatPRD/lennys-podcast-transcripts).
+A huge thank you to:
+
+- **[Lenny Rachitsky](https://www.lennyspodcast.com/)** for creating an incredible podcast full of insights from the best minds in product, growth, and leadership — and for making the transcripts available for educational use.
+- **[Claire Vo](https://github.com/ChatPRD)** for putting together the [lennys-podcast-transcripts](https://github.com/ChatPRD/lennys-podcast-transcripts) GitHub repo, making it easy to build tools like this one.
 
 ## License
 
