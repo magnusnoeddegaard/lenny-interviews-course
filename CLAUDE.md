@@ -27,9 +27,23 @@ Guest Name (00:05:45):
 ```
 
 ### Searching Transcripts
-- Use Grep to search for topics across all transcripts
+
+**Always consult the index first:** Before doing full-text transcript searches, check `transcripts/index.md` which contains structured metadata for all episodes including:
+- Guest names and episode titles
+- Topic tags (e.g., growth, product-management, leadership)
+- Companies discussed
+- Frameworks and mental models mentioned
+- Guest expertise areas
+
+**Search workflow:**
+1. First, search or read `transcripts/index.md` to identify relevant episodes by topic, company, or framework
+2. Use the index to narrow down which transcripts are most relevant
+3. Only do full-text Grep searches when the index doesn't have enough detail
+4. Read individual transcripts to extract detailed insights and quotes
+
+**Direct transcript search (when needed):**
+- Use Grep to search for specific terms across all transcripts
 - Use Glob with pattern `transcripts/episodes/*/transcript.md` to list all episodes
-- Read individual transcripts to extract detailed insights
 
 ## User Context
 
