@@ -106,6 +106,15 @@ This happens when you optimize for the outer scorecard for too long without chec
 - **Key Discussion**: (00:41:10) - Explanation of inner vs outer scorecard with the ego monster analogy
 - **YouTube**: [Watch on YouTube](https://www.youtube.com/watch?v=l-T8sNRcWQk)
 
+### Additional Source
+
+- **Guest**: Graham Weaver
+- **Episode**: "How to break out of autopilot and create the life you want"
+- **Key Discussion**: (00:23:29) - Internal vs external scorecard for career decisions; (00:49:51) - The internal game of life
+- **YouTube**: [Watch on YouTube](https://www.youtube.com/watch?v=UpGR9P0Ufts)
+
+Graham Weaver expands on this concept, sharing how he took "the job he was supposed to take" after business school—the external scorecard choice—but it created "tension, friction, stress, anxiety, burnout" because it didn't align with his internal scorecard. His experience reinforces that external achievement doesn't change internal fulfillment: "Nothing internally changed at all. I still had the same problems. I still felt the same way about myself."
+
 ## Related Frameworks
 
 - [Values Exercise](../career/values-exercise.md) - A practical tool for defining your inner scorecard

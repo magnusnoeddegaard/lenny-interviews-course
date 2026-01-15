@@ -23,6 +23,14 @@ A searchable collection of mental models and frameworks extracted from Lenny's P
 ### Growth
 *Frameworks for acquisition, retention, activation, and sustainable growth*
 
+- [Technology Adoption Lifecycle](growth/technology-adoption-lifecycle.md) - Five customer segments adopt new technologies at predictably different rates—each requires different go-to-market approaches
+- [Crossing the Chasm](growth/crossing-the-chasm.md) - The gap between early adopters and mainstream customers where most technology companies die
+- [Four Go-to-Market Playbooks](growth/four-gtm-playbooks.md) - Different stages of market adoption require fundamentally different go-to-market strategies
+- [Beachhead Segment Selection](growth/beachhead-segment-selection.md) - Choose a target segment that's big enough to matter, small enough to lead, and a good fit with your crown jewels
+- [Fish to Pond Ratio](growth/fish-to-pond-ratio.md) - Be a big fish in a small pond—your segment must be small enough for you to achieve market leadership
+- [Compelling Reason to Buy](growth/compelling-reason-to-buy.md) - Focus on the customer's urgent pain, not your product's features—they need therapy, not a demo
+- [Marquee Customer Strategy](growth/marquee-customer-strategy.md) - Win a lighthouse customer that puts you on the map before attempting to cross the chasm
+- [Trapped Value Release](growth/trapped-value-release.md) - Find value locked in the world that your technology can unlock—the market will reward you with a portion of the gain
 - [Adjacent User Theory](growth/adjacent-user-theory.md) - Grow by understanding and enabling users just outside your current base
 - [Lasers, Flash Bulbs, and Chandeliers](growth/lasers-flashbulbs-chandeliers.md) - Match your marketing channel to your objective—lasers for precision, chandeliers for broad awareness
 - [Compounding Growth Loops](growth/compounding-growth-loops.md) - Layer multiple growth engines that reinforce each other for exponential results
@@ -88,6 +96,37 @@ A searchable collection of mental models and frameworks extracted from Lenny's P
 - [Marketplace Fragmentation Requirement](growth/marketplace-fragmentation-requirement.md) - Marketplaces need fragmented supply and demand—concentrated markets don't need platforms
 - [Growth is a Game of Inches](growth/game-of-inches.md) - Small wins compound—1% improvements each week add up to massive growth
 - [Reverse Gravity in Software](growth/reverse-gravity-in-software.md) - Markets pull every software company upmarket over time—the case for staying focused on SMB
+- [Ten Growth Tactics That Never Work](growth/ten-growth-tactics-that-never-work.md) - A comprehensive anti-pattern list of growth tactics that consistently fail despite their popularity
+- [Founder-Led Growth](growth/founder-led-growth.md) - Growth must be founder-driven until you have PMF and sufficient data to experiment on
+- [Earned vs Owned Channels](growth/earned-vs-owned-channels.md) - Prioritize channels you own (virality, UGC) over rented channels (SEO, paid) that competitors can buy into
+- [Growth Model Evolution (18-Month Rule)](growth/growth-model-evolution.md) - Layer new growth models every 18 months to sustain growth as existing loops spin out
+- [Pre vs Post Measurement](growth/pre-vs-post-measurement.md) - When you can't get sample size in a month, ship and compare before/after instead of A/B testing
+- [Building in Public](growth/building-in-public.md) - Use continuous shipping and employee/founder socials to create noise that drives growth
+- [Product Giveaway as Marketing](growth/product-giveaway-as-marketing.md) - Give away your product liberally to evangelists who will do your marketing for you
+- [Wow Moment (vs Aha Moment)](growth/wow-moment.md) - For AI products, optimize for wow moments that create immediate magic, not just understanding
+- [Product-Led SEO](growth/product-led-seo.md) - SEO is a product problem, not a marketing problem—build for the search user's journey
+- [Top-of-Funnel vs Mid-Funnel SEO](growth/top-funnel-vs-mid-funnel-seo.md) - AI is eating top-of-funnel search—the SEO opportunity is now in the mid-funnel where intent exists
+- [Programmatic vs Editorial SEO](growth/programmatic-vs-editorial-seo.md) - Choose programmatic SEO for scale and user utility; editorial SEO for depth and thought leadership
+- [TAM-Based SEO Forecasting](growth/tam-based-seo-forecasting.md) - Forecast SEO opportunity top-down from market size, not bottom-up from keyword tools
+- [SEO Journey Validation](growth/seo-journey-validation.md) - Validate whether SEO makes sense for your business before investing—most SaaS shouldn't do SEO
+- [Fuel and Engine Framework](growth/fuel-and-engine.md) - Marketing needs both fuel (content) and an engine (distribution)—diagnose which you lack
+- [Three Engines of Growth](growth/three-engines-of-growth.md) - Sustainable growth comes from one of three engines: viral, sticky, or paid—each with its own feedback loop
+- [Engagement Loops](growth/engagement-loops.md) - Customers return to products through only three mechanisms: synthetic notifications, organic notifications, or positioning
+- [Audience Moat (Human Data)](growth/audience-moat.md) - The only moat in human data is access to an audience
+- [Zero CAC Through Trust](growth/zero-cac-through-trust.md) - Eliminate customer acquisition costs by leveraging existing audience trust and brand affinity
+- [Quality-Volume-Speed Triangle](growth/quality-volume-speed.md) - Model builders care about three things in order: quality first, volume at scale, then speed
+- [Generalists to Experts Shift](growth/generalists-to-experts-shift.md) - As models improve, the value shifts from generalist labor to domain experts who can break the models
+- [Answer Engine Optimization (AEO)](growth/answer-engine-optimization.md) - Optimize your product to show up in LLM answers, not just search results
+- [Citation Optimization Strategy](growth/citation-optimization-strategy.md) - Get mentioned across multiple sources to become the LLM's top recommendation
+- [AEO Experiment Design](growth/aeo-experiment-design.md) - Test/control methodology for validating AEO tactics before scaling
+- [Head vs Tail Strategy (AEO)](growth/head-vs-tail-aeo.md) - Different strategies for competitive head terms versus expansive long-tail questions
+- [Virality-Based Prioritization](growth/virality-based-prioritization.md) - Look for user demand by tracking what goes viral—if people share it, there's something valuable at the core
+- [Customer-Led Growth (CLG)](growth/customer-led-growth.md) - Grow by understanding, mapping, and measuring the value journey of your best customers
+- [Forget the Funnel](growth/forget-the-funnel.md) - Traditional funnels put businesses at the center—put customers at the center instead
+- [Job Prioritization Criteria](growth/job-prioritization-criteria.md) - Choose which customer job to focus on based on urgency, willingness to pay, go-to-market fit, and unfair advantages
+- [Milestone-Based KPIs](growth/milestone-based-kpis.md) - Measure success at each customer value moment, not just at conversions
+- [Organic Growth Threshold](growth/organic-growth-threshold.md) - 40-50% of new customers should come from organic channels; if 90% come from paid, the music will stop
+- [Remarkability Principle](growth/remarkability-principle.md) - Great products must be better along dimensions that matter so much that people can't help but talk about them
 
 ### Product Strategy
 *Frameworks for roadmapping, prioritization, and product vision*
@@ -127,10 +166,22 @@ A searchable collection of mental models and frameworks extracted from Lenny's P
 - [Zig vs Zag (High Conviction, Low Consensus)](product-strategy/zig-vs-zag.md) - You need to be right about something that other people think you're wrong about for a very long time
 - [Wow Product Standard](product-strategy/wow-product-standard.md) - Never compromise on quality, UX, and aesthetics—even for MVPs
 - [Irreducible Complexity](product-strategy/irreducible-complexity.md) - Adding features doesn't add value linearly—complexity compounds and coherence degrades
+- [Four Types of Product Work](product-strategy/four-types-of-product-work.md) - Categorize product work into feature, growth, PMF expansion, and scaling to build a balanced portfolio
+- [70/20/10 Investment Split](product-strategy/70-20-10-investment-split.md) - Allocate 70% to core, 20% to strategic initiatives, 10% to bets
+- [Build the Scooter, Not the Axle](product-strategy/build-the-scooter.md) - Build a complete small thing first, not a component of a big thing
+- [Build for Your Best User](product-strategy/build-for-best-user.md) - Design for users who will get it immediately, not edge cases
 - [Design is Art Applied to Problem Solving](product-strategy/design-is-art-applied-to-problem-solving.md) - Design combines creative expression with utility—lose either and you lose the magic
 - [Four Elements of Vision](product-strategy/four-elements-of-vision.md) - A compelling product vision must be lofty, realistic, tech-agnostic, and problem-grounded
 - [Empathize-Create-Evangelize](product-strategy/empathize-create-evangelize.md) - Three-phase process for developing and sharing a compelling product vision
 - [Dopamine vs Truth Optimization](product-strategy/dopamine-vs-truth.md) - The tension between optimizing for engagement versus genuine value
+- [Product-Market Fit Treadmill](product-strategy/pmf-treadmill.md) - In fast-moving markets, PMF must be recaptured every 3 months, not sustained for years
+- [Capabilities-Value-Scale](product-strategy/capabilities-value-scale.md) - Software adoption moves through three stages: what's possible, how it creates value, then how to scale it
+- [Public vs Secret Roadmap](product-strategy/public-vs-secret-roadmap.md) - Separate user requests from breakthrough innovations with two distinct roadmaps
+- [Documentation vs Storytelling (AI Video)](product-strategy/documentation-vs-storytelling.md) - Two categories of video with opposite AI implications—documentation should stay real, storytelling can be generated
+- [DHM Model (Delight, Hard to Copy, Margin)](product-strategy/dhm-model.md) - Product strategy is about delighting customers in hard to copy, margin enhancing ways
+- [GEM Prioritization (Growth, Engagement, Monetization)](product-strategy/gem-prioritization.md) - Force rank Growth, Engagement, and Monetization to align your organization on priorities
+- [Two Percenters Rule](product-strategy/two-percenters-rule.md) - Kill features used by only 2% of customers—they create complexity without moving metrics
+- [Multiple Paths to Greatness](product-strategy/multiple-paths-to-greatness.md) - Great companies succeed through authentically different approaches: technical, growth, design, or operational excellence
 
 ### Discovery
 *Frameworks for user research, understanding customer needs, and opportunity mapping*
@@ -149,6 +200,8 @@ A searchable collection of mental models and frameworks extracted from Lenny's P
 - [Four Risks Framework](discovery/four-risks-framework.md) - Every solution carries four risks: value, usability, feasibility, and viability
 - [Top 10 Things You Should Know](discovery/top-10-things-you-should-know.md) - A living document of the most important problems in your product area
 - [Dog Food and Cat Food](discovery/dog-food-and-cat-food.md) - Use your own product obsessively (dog food) and competitors' products regularly (cat food)
+- [Customer Experience Mapping](discovery/customer-experience-mapping.md) - Map the documentary of how customers meet, fall in love with, and grow with your product
+- [Best Customer Definition](discovery/best-customer-definition.md) - Define ideal customers as those who get value, pay willingly, are low-maintenance, and remember their journey
 
 ### Leadership
 *Frameworks for managing people, coaching, and building culture*
@@ -206,6 +259,20 @@ A searchable collection of mental models and frameworks extracted from Lenny's P
 - [Identity Fusion with Company](leadership/identity-fusion-with-company.md) - Separate your identity from your company's performance to lead effectively
 - [Turnaround Playbook](leadership/turnaround-playbook.md) - Transform a stagnant company through cultural reset and focused execution
 - [Loved Not Liked](leadership/loved-not-liked.md) - Optimize for being loved (extending yourself for others' growth) rather than being liked
+- [Keeper Test](leadership/keeper-test.md) - Would you fight to keep this person if they tried to leave?
+- [High Talent Density](leadership/high-talent-density.md) - High talent density is the prerequisite that enables all other cultural values
+- [Context Not Control](leadership/context-not-control.md) - Share information liberally so people can make great decisions independently
+- [Excellence Through Responsiveness](leadership/excellence-through-responsiveness.md) - Demonstrate dedication by never making others wait on you
+- [Manager Death Spiral](leadership/manager-death-spiral.md) - The trap where new managers keep the most interesting work for themselves and block their entire team
+- [Doer to Editor Shift](leadership/doer-to-editor-shift.md) - The mindset transition from doing work yourself to making others' work better
+- [Spiritual Holding Company](leadership/spiritual-holding-company.md) - Create a governance structure that protects your company's soul and mission—even if founders leave or investors change
+- [Face-to-Face Defuses](leadership/face-to-face-defuses.md) - Angry emails are easy—being angry in person is hard—so take difficult conversations offline
+- [Safety-Reward-Purpose System](leadership/safety-reward-purpose.md) - Three brain systems that drive human motivation and behavior at work
+- [Ability-Trust-Appeal (Relationship Triangle)](leadership/ability-trust-appeal.md) - Three components of professional relationships—and why appeal matters most
+- [Deductive vs Performative Culture](leadership/deductive-vs-performative-culture.md) - Build culture through logical deduction from your role in the world, not through inspirational mission statements
+- [Unscheduled One-on-Ones](leadership/unscheduled-one-on-ones.md) - Open-door availability instead of scheduled recurring meetings—be there when people actually need you
+- [Design-Led Product Development](leadership/design-led-product-development.md) - Small design teams with PM capabilities give founders granular control over every user-facing change
+- [Strategy Contract (Goal-Hypothesis-Data-Solution)](leadership/strategy-contract.md) - Align on goals, hypotheses, and data before debating solutions
 
 ### Decision Making
 *Frameworks for making better decisions under uncertainty*
@@ -253,6 +320,14 @@ A searchable collection of mental models and frameworks extracted from Lenny's P
 - [Head, Heart, Hands](decision-making/head-heart-hands.md) - Evaluate decisions and experiments through cognitive, emotional, and somatic filters
 - [Isn't That Interesting (Optimistic Stance)](decision-making/isnt-that-interesting.md) - Respond to challenging situations with curiosity rather than judgment for better decisions
 - [You Are Your Objective Function](decision-making/you-are-your-objective-function.md) - What you optimize for defines you—choose rich, complex objectives over easy proxies
+- [Fear the New York Times Headline](decision-making/fear-the-headline.md) - Assess decisions by asking whether failure would generate unwanted press coverage
+- [AI Content Collapse (Model Collapse)](decision-making/ai-content-collapse.md) - Why AI-generated content fails—and what happens when AI trains on its own output
+- [Believed-Believable-Conceivable-Inconceivable](decision-making/believed-believable-conceivable.md) - Your brain sorts ideas into four buckets based on evidence and experience—understanding your thresholds unlocks better strategy work
+- [Choose the Hard Path](decision-making/choose-the-hard-path.md) - Pick the harder option because you learn more even if you fail
+- [Everything You Know Is Wrong](decision-making/everything-you-know-is-wrong.md) - Assume all knowledge could be incorrect and rebuild understanding from first principles
+- [SWAG Method (Stupid Wild-Ass Guess)](decision-making/swag-method.md) - Start with your best hypothesis, then refine through feedback—don't wait for perfect information
+- [Reversibility-Stakes Assessment](decision-making/reversibility-stakes-assessment.md) - Assess decisions by magnitude and reversibility—most feel high-stakes but aren't
+- [Founder-Centric Investing](decision-making/founder-centric-investing.md) - Invest in founders who authentically live the problem, not in markets or ideas
 
 ### Communication
 *Frameworks for storytelling, positioning, and strategic narrative*
@@ -299,8 +374,16 @@ A searchable collection of mental models and frameworks extracted from Lenny's P
 - [Reframe Self-Promotion as Education](communication/reframe-self-promotion.md) - Shift from 'selling yourself' to 'educating others about your team's work'
 - [Flash Tags](communication/flash-tags.md) - Signal conviction level with hashtags to prevent founders' opinions from being over-indexed
 - [Laughs Per Minute (LPM)](communication/laughs-per-minute.md) - Measure and optimize talk effectiveness through humor frequency
+- [Exclusive Pitch Formula](communication/exclusive-pitch-formula.md) - Three-sentence pitches with clear intent and exclusive offers
+- [Incumbent Positioning](communication/incumbent-positioning.md) - Position against known incumbents rather than claiming category creation
+- [Publication Fit Matrix](communication/publication-fit-matrix.md) - Match your story type to the right publication for realistic coverage
+- [Second-Order PR Effects](communication/second-order-pr-effects.md) - PR's primary value is validation and credibility, not direct growth
 - [Once Upon a Time Vision Framework](communication/once-upon-a-time-vision.md) - Mad Libs-style storytelling template for crafting compelling product visions
 - [Concentric Circles of Evangelism](communication/concentric-circles-of-evangelism.md) - Spread your vision from core team to stakeholders to leadership in expanding rings
+- [Insights Per Minute (IPM)](communication/insights-per-minute.md) - Optimize communication for maximum valuable takeaways per unit of time
+- [Progress Over Perfection](communication/progress-over-perfection.md) - Velocity of information is far more important than perfection—perfection is an outcome, not a starting point
+- [Slow-Moderate-Fast Influence](communication/slow-moderate-fast-influence.md) - Three speeds of influence—from letting people fail to cognitive dissonance in the moment
+- [Messaging Hierarchy](communication/messaging-hierarchy.md) - Prioritize messaging based on what customers say matters most, not what you think is coolest
 
 ### Team Building
 *Frameworks for hiring, scaling teams, and organizational design*
@@ -321,6 +404,7 @@ A searchable collection of mental models and frameworks extracted from Lenny's P
 - [Small, Senior, Trusted Team](team-building/small-senior-trusted-team.md) - Startups within companies succeed with small, tightly-knit senior teams focused on a problem
 - [Strength Not Weakness Investing](team-building/strength-not-weakness.md) - Judge people by their world-class strengths, not by the worst thing that ever happened to them
 - [Single-Threaded Leader](team-building/single-threaded-leader.md) - One leader fully owns one thing with all necessary resources dedicated to them
+- [Chief Engineer Model](team-building/chief-engineer-model.md) - Assign one person with moral authority over an entire product to make all trade-off decisions—without giving them direct reports
 - [Bar Raiser](team-building/bar-raiser.md) - An independent interviewer ensures hiring decisions meet company standards, not just hiring manager urgency
 - [Scenius](team-building/scenius.md) - Collective genius emerges from small groups, not individuals or large committees
 - [First 10 Hires Discipline](team-building/first-10-hires-discipline.md) - Be extremely patient for the first 10 hires, then accelerate once you hit product-market fit
@@ -338,6 +422,19 @@ A searchable collection of mental models and frameworks extracted from Lenny's P
 - [Local CEO Model](team-building/local-ceo-model.md) - Product owners as line managers with full end-to-end ownership of product, team, and business outcomes
 - [Raw Intellect Over Experience](team-building/raw-intellect-over-experience.md) - Hire for intelligence and hunger over industry experience—ramp-up time is longer anyway
 - [Seniority Gap](team-building/seniority-gap.md) - Balance experienced leaders with high-potential talent to accelerate organizational learning
+- [New Products as Internal Startups](team-building/new-products-as-startups.md) - Treat new product teams as VC-funded startups that must prove ROI
+- [Product Talent Portfolio](team-building/product-talent-portfolio.md) - Balance PM team skillsets rather than hiring in your own image
+- [Vibe Coder Role](team-building/vibe-coder-role.md) - A new role for non-technical people who build prototypes and tools using AI coding assistants
+- [Pi-Shaped Marketer](team-building/pi-shaped-marketer.md) - Hire marketers with two areas of expertise plus working knowledge across all marketing functions
+- [AORs (Areas of Responsibility)](team-building/aors-areas-of-responsibility.md) - A living list of who owns what—not job titles, but specific responsibilities with clear DRIs
+- [More Context Per Head](team-building/more-context-per-head.md) - Prioritize fewer people with deeper context over more people with shallow knowledge
+- [Job Trials Over Interviews](team-building/job-trials-over-interviews.md) - Evaluate candidates through actual work, not interview performance—put them in the race car
+- [Life Story Interview](team-building/life-story-interview.md) - Evaluate candidates by understanding why they made decisions, not just what they did
+- [A-Plus Engineering Signals](team-building/a-plus-engineering-signals.md) - Identify high-performing engineers by their curiosity, pace-setting, and proactiveness
+- [Everyone Thinks Like a PM](team-building/everyone-thinks-like-pm.md) - Scale product leadership by making engineers and designers think like PMs
+- [Hire the Lieutenant](team-building/hire-the-lieutenant.md) - Recruit up-and-coming lieutenants from best-in-class companies, not the leaders themselves
+- [First PM from Within](team-building/first-pm-from-within.md) - Your first product manager should be an existing analyst, engineer, or designer who already has the team's trust
+- [Title Delay Strategy](team-building/title-delay-strategy.md) - Delay director and VP titles as long as possible to avoid organizational debt and enable future upgrades
 
 ### Execution
 *Frameworks for shipping, operations, and process improvement*
@@ -422,6 +519,41 @@ A searchable collection of mental models and frameworks extracted from Lenny's P
 - [Taste in Post-Training](execution/taste-in-post-training.md) - The art and sophistication of deciding what kind of AI model to create
 - [RL Environments for Learning](execution/rl-environments-for-learning.md) - Train AI through simulated real-world environments with reward-based learning
 - [Trajectory Analysis](execution/trajectory-analysis.md) - Evaluate the path to a goal, not just whether the goal was reached
+- [Think Bigger in Planning](execution/think-bigger-in-planning.md) - Ask 'what would you do with 20% more time?' to surface ambitious ideas
+- [Help Center Optimization for AEO](execution/help-center-optimization-aeo.md) - Optimize help centers to capture long-tail questions in LLM answers
+- [Process as Variance Reducing](execution/process-as-variance-reducing.md) - Process brings everyone to the average—including your best performers
+- [Minimum Viable Process](execution/minimum-viable-process.md) - Set the floor for process, but explicitly encourage going higher
+- [Separate Everything (New Co Inside Existing Co)](execution/separate-everything.md) - Run new ventures with completely separate teams, space, cadence, and culture from the parent company
+- [Leave Nothing to Chance](execution/leave-nothing-to-chance.md) - During once-in-a-lifetime opportunities, execute with zero regret intensity
+- [Crazy Ideas Doc](execution/crazy-ideas-doc.md) - Annual company-wide solicitation of high-risk, high-reward ideas
+- [Last 5% Matters Most](execution/last-5-percent.md) - The final 5% of effort is what separates good from excellent
+- [Priming Before Decision-Making](execution/priming-before-decisions.md) - Meetings are a combination of priming and decision-making—skipping priming is where most meetings fail
+- [Alpha-Beta-Gamma Focus Modes](execution/alpha-beta-gamma-focus.md) - Three brain wave states that enable different types of thinking—and why we spend too much time in beta
+- [Fail Conclusively](execution/fail-conclusively.md) - Design experiments to maximize treatment effect so failures are definitive learnings, not inconclusive results
+- [Floor Risers and Ceiling Risers](execution/floor-risers-ceiling-risers.md) - Distinguish between improvements that prevent bad outcomes vs. improvements that enable great outcomes
+- [GACCS Framework](execution/gaccs-framework.md) - Goals, Audience, Creative, Channels, Stakeholders—a marketing brief that prevents wasted work
+- [Overnight Success, Seven Years in the Making](execution/overnight-success-seven-years.md) - Sustainable success is built on years of foundation work that becomes invisible once you break through
+- [Low Burn, Many Shots on Goal](execution/low-burn-many-shots.md) - Keep burn rate extremely low to maximize the number of strategic bets you can take
+- [Zero Fidelity Loss](execution/zero-fidelity-loss.md) - Maintain perfect information transfer during hypergrowth through daily all-hands synchronization
+- [Systematic Invention](execution/systematic-invention.md) - A process for becoming inventive through dedicated time, expertise, and combining existing concepts
+- [Buying Life One Hour at a Time](execution/buying-life-one-hour.md) - Rebuild trust during crisis through proactive, frequent communication with explicit commitments
+- [Kilojoules Per Hour (Intensity Mindset)](execution/kilojoules-per-hour.md) - Maximize output per unit of time instead of extending hours
+- [Pair Programming](execution/pair-programming.md) - Two people on one machine for higher quality output, faster learning, and intense focus
+- [Delete Code Culture](execution/delete-code-culture.md) - Actively delete code to simplify codebases and move faster
+- [Meetingageddon](execution/meetingageddon.md) - Annual deletion of all recurring meetings to reset calendars and reclaim crafter time
+- [Experiment-Feature-Infrastructure](execution/experiment-feature-infrastructure.md) - Bucket work into three types to set appropriate expectations and investment levels
+- [Marketable Feature Every Week](execution/marketable-feature-every-week.md) - Every engineer ships a feature that could convince someone to pay—every single week
+- [Strategic Technical Debt](execution/strategic-technical-debt.md) - Taking on technical debt is how startups operate faster than larger companies—use future employees' time now
+- [Scope Cutting Over Quality Cutting](execution/scope-over-quality.md) - When time pressure hits, cut scope ruthlessly—never quality
+- [Internal Virality for Alignment](execution/internal-virality-for-alignment.md) - Create alignment at scale by making prototypes spread virally within the company
+- [Design Engineering Function](execution/design-engineering-function.md) - People who can design, build, and ship complete prototypes—enabling innovation at scale
+- [Velocity Over Everything](execution/velocity-over-everything.md) - Prioritize shipping speed as the core organizational value
+- [Single-Threaded Focus](execution/single-threaded-focus.md) - Give teams one goal, one thread, and shield them from everything else
+- [Every Support Ticket is a Product Failure](execution/every-ticket-is-failure.md) - Treat customer support as product feedback by having support report to product
+- [No Bug Backlog](execution/no-bug-backlog.md) - Fix every bug immediately—no backlog, no prioritization
+- [Designs as Motivation](execution/designs-as-motivation.md) - Use visionary prototypes and Loom walkthroughs to keep teams aligned and motivated
+- [External Deadlines Drive Output](execution/external-deadlines-drive-output.md) - Public commitments to others create the forcing function that self-discipline cannot
+- [Six-Month Commitment Test](execution/six-month-commitment-test.md) - Commit fully for six months to validate a new venture before deciding to continue or quit
 
 ### Career
 *Frameworks for personal growth, career transitions, and development*
@@ -457,6 +589,7 @@ A searchable collection of mental models and frameworks extracted from Lenny's P
 - [Hypergrowth Company Evaluation](career/hypergrowth-company-evaluation.md) - Ten criteria for identifying companies with real momentum before joining
 - [Tours of Duty](career/tours-of-duty.md) - Deliberately rotate through different functions to build executive readiness
 - [AFOG (Another Fucking Opportunity for Growth)](career/afog.md) - Reframe failures and setbacks as learning opportunities with this memorable acronym
+- [A-Side B-Side Career Framing](career/a-side-b-side.md) - Every career has a highlight reel (A-side) and a struggle story (B-side)—both are essential for resilience
 - [PM Spectrum (Innovator to Executor)](career/pm-spectrum-innovator-executor.md) - PMs range from crazy innovators to pure executors—the sweet spot is strategic executors in the middle
 - [Modern Elder (Mentern)](career/modern-elder.md) - Be both wise and curious—a mentor who is also an intern
 - [Anticipated Regret as Wisdom](career/anticipated-regret.md) - 10 years from now, what will you regret if you don't learn it or do it now?
@@ -468,6 +601,7 @@ A searchable collection of mental models and frameworks extracted from Lenny's P
 - [Scrape Your Knees](career/scrape-your-knees.md) - Accept that painful trial and error is essential to truly learning product management
 - [Resilience for Growth PMs](career/resilience-for-growth.md) - The ability to persist through 70-80% experiment failure rates without thinking too small
 - [Consistent Pressure Over Time](career/consistent-pressure-over-time.md) - Sustained effort matters more than immediate achievements—don't give up, keep working at it
+- [Zombie Company Escape](career/zombie-company-escape.md) - A company that won't die but you can't leave is worse than failure—know when to let it go
 - [Bend the Universe to Your Will](career/bend-the-universe.md) - Take agency to shape your career and outcomes rather than waiting for opportunities
 - [Zone of Genius](career/zone-of-genius.md) - Operate in the space where you're exceptional and derive tremendous joy
 - [Allocation Economy](career/allocation-economy.md) - In the AI era, management skills become universal as everyone becomes a model manager
@@ -482,6 +616,28 @@ A searchable collection of mental models and frameworks extracted from Lenny's P
 - [Teaching Smart People to Learn](career/teaching-smart-people-to-learn.md) - Recognize how intelligence creates learning blocks and overcome them
 - [Mentorship from Anywhere](career/mentorship-from-anywhere.md) - Mentors can be anyone—investors, employees, people you mentor, even interns—stay ready to learn
 - [Build What Only You Can Build](career/build-what-only-you-can-build.md) - Focus on creating the one thing that wouldn't exist without your unique insight
+- [Career Optionality](career/career-optionality.md) - Maximize career options rather than optimizing for specific titles or linear progression
+- [AI-Native Advantage](career/ai-native-advantage.md) - Young people who grow up with AI tools have a generational competitive advantage
+- [PM Skills as AI Leverage](career/pm-skills-as-ai-leverage.md) - Product management skills directly translate to AI tool proficiency
+- [The Magic Loop](career/magic-loop.md) - A five-step career advancement framework that creates mutual benefit between you and your manager
+- [What Got You Here Won't Get You There](career/what-got-you-here.md) - The skills that earned your current position are different from the skills needed for the next level
+- [Show Impact, Not Work](career/show-impact-not-work.md) - In interviews, demonstrate how your work made a difference—not just what you did
+- [Learning Acceleration Loop](career/learning-acceleration-loop.md) - A four-step cycle for accelerating PM skill development through execution, generalization, communication, and scaling
+- [Serendipity and Curiosity](career/serendipity-and-curiosity.md) - Great careers are built by knowing people doing great work, being curious, and seizing unexpected opportunities
+- [Problem Over Product](career/problem-over-product.md) - Choose opportunities based on the problem you're solving and who you're solving it for, not the product domain
+- [Mid-Stage Sweet Spot](career/mid-stage-sweet-spot.md) - Join 300-500 person companies that have product-market-channel fit and are becoming platforms
+- [Work at Category Leaders](career/work-at-category-leaders.md) - Being a mid-level IC at a category winner beats being a senior leader at a tier-two player
+- [Two Stack Levels Up, Two Stack Levels Down](career/two-stack-levels.md) - Understand two levels above and below your role, plus what's happening to your left and right
+- [Sponsorship Not Mentorship](career/sponsorship-not-mentorship.md) - Career breakthroughs come from sponsors who trust you with big opportunities, not mentors who give advice
+- [Product Leader Canyon](career/product-leader-canyon.md) - The difficult gap between senior IC and product leader that many PMs fail to cross
+- [Looking Stupid as Superpower](career/looking-stupid-as-superpower.md) - Be willing to look dumb and ask dumb questions repeatedly—it's how you actually learn
+- [Intellectual Fearlessness](career/intellectual-fearlessness.md) - Focus on passion and mission, not every possible downside
+- [Writing for Thinking](career/writing-for-thinking.md) - Write to crystallize your thinking—reading makes you wise, writing makes you think
+- [Processing Over Memory](career/processing-over-memory.md) - Free up headspace for thinking by externalizing everything
+- [Fame Formula (Atwood's Rule)](career/fame-formula.md) - Write regularly for two years and you'll become known in your field
+- [Follow the Pull](career/follow-the-pull.md) - Double down on what gets unexpected traction rather than sticking to your original plan
+- [Thousand Micro-Bosses](career/thousand-micro-bosses.md) - Distributed risk across many customers feels safer than concentration with one employer
+- [Personal Board of Directors](career/personal-board-of-directors.md) - Build a community of peers and mentors who help you see around corners in your career
 
 ---
 
@@ -520,6 +676,18 @@ A searchable collection of mental models and frameworks extracted from Lenny's P
 - [Don't Be the Frog](career/dont-be-the-frog.md) - Recognize when it's time to leave
 - [Eating Your Vegetables](career/eating-your-vegetables.md) - Build skills through deliberate practice
 - [PMF for Candidates](career/pmf-for-candidates.md) - Evaluate job opportunities systematically
+- [The Magic Loop](career/magic-loop.md) - Build a mutual partnership with your manager for career growth
+- [What Got You Here Won't Get You There](career/what-got-you-here.md) - Recognize when next-level skills differ from current success factors
+- [Learning Acceleration Loop](career/learning-acceleration-loop.md) - Accelerate PM skill development through the execute-generalize-communicate-scale cycle
+- [Sponsorship Not Mentorship](career/sponsorship-not-mentorship.md) - Focus on earning sponsors, not just mentors
+
+### "I'm transitioning from IC to manager"
+- [Product Leader Canyon](career/product-leader-canyon.md) - Understand the difficult gap you must cross
+- [Manager Death Spiral](leadership/manager-death-spiral.md) - Avoid the trap of keeping interesting work for yourself
+- [Doer to Editor Shift](leadership/doer-to-editor-shift.md) - Change your mindset from doing to making others better
+- [Four Types of Product Work](product-strategy/four-types-of-product-work.md) - Lead a portfolio across feature, growth, PMF expansion, and scaling
+- [Two Stack Levels Up, Two Stack Levels Down](career/two-stack-levels.md) - Build the context awareness leaders need
+- [Give Away Your Legos](team-building/give-away-your-legos.md) - Scale by delegating work you love
 
 ### "I need to communicate my strategy"
 - [Strategic Narrative Framework](communication/strategic-narrative-framework.md) - Position your product as part of a movement
@@ -531,6 +699,16 @@ A searchable collection of mental models and frameworks extracted from Lenny's P
 - [Growth Competency Model](growth/growth-competency-model.md) - Hire and evaluate growth talent
 - [Give Away Your Legos](team-building/give-away-your-legos.md) - Scale yourself by delegating work you love
 - [Founder Mode](leadership/founder-mode.md) - Stay deeply involved rather than delegating product leadership
+
+### "I want to improve SEO"
+- [Product-Led SEO](growth/product-led-seo.md) - Treat SEO as a product problem
+- [SEO Journey Validation](growth/seo-journey-validation.md) - Determine if SEO is right for your business
+- [Top-of-Funnel vs Mid-Funnel SEO](growth/top-funnel-vs-mid-funnel-seo.md) - Focus on mid-funnel where AI can't replace you
+- [Programmatic vs Editorial SEO](growth/programmatic-vs-editorial-seo.md) - Choose the right content approach
+- [TAM-Based SEO Forecasting](growth/tam-based-seo-forecasting.md) - Size SEO opportunity accurately
+- [Answer Engine Optimization (AEO)](growth/answer-engine-optimization.md) - Show up in ChatGPT and other LLM answers
+- [Citation Optimization Strategy](growth/citation-optimization-strategy.md) - Get mentioned across multiple sources LLMs cite
+- [Head vs Tail Strategy (AEO)](growth/head-vs-tail-aeo.md) - Different approaches for head vs tail AEO queries
 
 ### "I need to improve onboarding/activation"
 - [Opinionated Defaults](growth/opinionated-defaults.md) - Guide users to good choices with smart defaults
