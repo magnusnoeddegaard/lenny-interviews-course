@@ -75,6 +75,13 @@ The progression works as milestones:
 - **Key Discussion**: (00:00:31) - Anton explains the MLP concept and why he named his company Lovable
 - **YouTube**: [Watch on YouTube](https://www.youtube.com/watch?v=DZtGxNs9AVg)
 
+### Additional Source
+
+- **Guest**: Elena Verna
+- **Episode**: "10 growth tactics that never work | Elena Verna (Amplitude, Miro, Dropbox, SurveyMonkey)"
+- **Key Discussion**: (00:43:59) - Elena describes how "viability is left back in 2010s" and MLP is now the standard
+- **YouTube**: [Watch on YouTube](https://www.youtube.com/watch?v=IHwS2By9UKM)
+
 ## Related Frameworks
 
 - [Problem-First Approach](../execution/problem-first-approach.md) - Start with user problems, not technology

@@ -102,6 +102,15 @@ Category creation works best as a late-stage expansion strategy, not an early-st
 - **YouTube**: [Watch on YouTube](https://www.youtube.com/watch?v=-VqmFI9vY7w)
 - **Original Source**: Geoffrey Moore, "Crossing the Chasm" and "Inside the Tornado"
 
+### Additional Source: Geoffrey Moore
+
+- **Guest**: Geoffrey Moore
+- **Episode**: "Crossing the Chasm with the legendary author Geoffrey Moore"
+- **Key Discussion**: (00:13:31-00:14:13) - Bowling alley expansion model; (00:16:08) - Documentum example
+- **YouTube**: [Watch on YouTube](https://www.youtube.com/watch?v=CtB0O0M7YS0)
+
+Geoffrey Moore explains the bowling alley as the phase after crossing the chasm where you expand to adjacent segments: "Either it's the same customer with a different use case, or it's the same use case in a different customer base. Because the one case, you use your customer references. The other case, you use your partners."
+
 ## Related Frameworks
 
 - [Focus Wisely](focus-wisely.md) - Narrowing target personas for better prioritization

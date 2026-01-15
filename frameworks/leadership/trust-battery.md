@@ -75,6 +75,19 @@ The battery level determines how much autonomy you're given, how easily your ide
 - **Key Discussion**: (~14:58-15:29) - How trust battery enables decision-making at Shopify
 - **YouTube**: [Watch on YouTube](https://www.youtube.com/watch?v=sRukk520Fds)
 
+### Additional Source
+
+- **Guest**: Farhan Thawar
+- **Episode**: "How Shopify builds a high-intensity culture"
+- **Key Discussion**: (00:58:38 - 01:00:06) - Using trust battery strategically and starting levels
+- **YouTube**: [Watch on YouTube](https://www.youtube.com/watch?v=C_lhMOjG7PE)
+
+**Farhan's additional insights:**
+- Toby Lutke starts everyone at 50% and builds from there
+- Some leaders start new hires at 100% ("high charging teams") and only deplete if off-alignment
+- The terminology becomes shorthand for figuring out how to work with somebody
+- Trust battery can "recharge" through intentional IRL experiences like Shopify Summit and bursts
+
 ## Related Frameworks
 
 - [Kind and Candid](kind-and-candid.md) - Builds trust through honest, caring feedback
