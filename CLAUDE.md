@@ -75,6 +75,37 @@ When referencing podcast content, always cite:
 
 Example: *"According to Ben Horowitz in 'The Most Counterintuitive Lessons' (00:15:30)..."*
 
+## Frameworks Library
+
+Pre-extracted mental models and frameworks from podcast episodes are stored in `frameworks/`:
+
+```
+frameworks/
+├── index.md                    # Master index of all frameworks
+├── .extraction-progress.md     # Tracks extraction progress
+├── growth/                     # Acquisition, retention, metrics, loops
+├── product-strategy/           # Roadmaps, prioritization, vision
+├── discovery/                  # User research, JTBD, opportunity mapping
+├── leadership/                 # Managing, coaching, culture
+├── decision-making/            # Frameworks for better decisions
+├── communication/              # Storytelling, positioning, narrative
+├── team-building/              # Hiring, scaling, org design
+├── execution/                  # Shipping, operations, processes
+└── career/                     # Growth, transitions, personal development
+```
+
+Each framework file includes:
+- Framework name and one-line description
+- How it works (explanation and components)
+- How to apply it (actionable steps)
+- Source attribution (guest, episode, timestamp)
+- Related frameworks
+
+**Search workflow for frameworks:**
+1. First, check `frameworks/index.md` for the master list
+2. Browse by category in the appropriate subdirectory
+3. Use `/frameworks [topic]` to search the library
+
 ## Available Skills
 
 - `/learn` - Interactive topic-based learning with Q&A
@@ -83,3 +114,5 @@ Example: *"According to Ben Horowitz in 'The Most Counterintuitive Lessons' (00:
 - `/experts` - Find which guests discussed specific topics
 - `/quiz` - Test knowledge on a topic
 - `/summary` - Get quick summaries of episodes or guests
+- `/frameworks` - Browse or search the frameworks library
+- `/extract-framework` - Extract frameworks from transcripts (batch processing)
