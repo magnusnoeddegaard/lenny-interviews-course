@@ -1,7 +1,12 @@
 {
   "permissions": {
     "allow": [
-      "Skill(extract-framework)"
+      "Skill(extract-framework)",
+      "Read",
+      "Write",
+      "Edit",
+      "Glob",
+      "Grep"
     ]
   }
 }
