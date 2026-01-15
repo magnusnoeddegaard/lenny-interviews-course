@@ -6,15 +6,15 @@ A searchable collection of mental models and frameworks extracted from Lenny's P
 
 | Category | Description | Count |
 |----------|-------------|-------|
-| [Growth](#growth) | Acquisition, retention, metrics, loops | - |
-| [Product Strategy](#product-strategy) | Roadmaps, prioritization, vision | - |
-| [Discovery](#discovery) | User research, JTBD, opportunity mapping | - |
-| [Leadership](#leadership) | Managing, coaching, culture | - |
-| [Decision Making](#decision-making) | Frameworks for better decisions | - |
-| [Communication](#communication) | Storytelling, positioning, narrative | - |
-| [Team Building](#team-building) | Hiring, scaling, org design | - |
-| [Execution](#execution) | Shipping, operations, processes | - |
-| [Career](#career) | Growth, transitions, personal development | - |
+| [Growth](#growth) | Acquisition, retention, metrics, loops | 65 |
+| [Product Strategy](#product-strategy) | Roadmaps, prioritization, vision | 39 |
+| [Discovery](#discovery) | User research, JTBD, opportunity mapping | 14 |
+| [Leadership](#leadership) | Managing, coaching, culture | 53 |
+| [Decision Making](#decision-making) | Frameworks for better decisions | 43 |
+| [Communication](#communication) | Storytelling, positioning, narrative | 44 |
+| [Team Building](#team-building) | Hiring, scaling, org design | 33 |
+| [Execution](#execution) | Shipping, operations, processes | 80 |
+| [Career](#career) | Growth, transitions, personal development | 55 |
 
 ---
 
@@ -130,7 +130,7 @@ A searchable collection of mental models and frameworks extracted from Lenny's P
 - [Design is Art Applied to Problem Solving](product-strategy/design-is-art-applied-to-problem-solving.md) - Design combines creative expression with utility—lose either and you lose the magic
 - [Four Elements of Vision](product-strategy/four-elements-of-vision.md) - A compelling product vision must be lofty, realistic, tech-agnostic, and problem-grounded
 - [Empathize-Create-Evangelize](product-strategy/empathize-create-evangelize.md) - Three-phase process for developing and sharing a compelling product vision
-- [Dopamine vs Truth Optimization](product-strategy/dopamine-vs-truth.md) - The tension between optimizing for engagement versus genuine value
+- [Dopamine vs Truth Optimization](product-strategy/dopamine-vs-truth.md) - The tension between optimizing for engagement versu=s genuine value
 
 ### Discovery
 *Frameworks for user research, understanding customer needs, and opportunity mapping*
