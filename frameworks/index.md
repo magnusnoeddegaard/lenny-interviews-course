@@ -6,15 +6,15 @@ A searchable collection of mental models and frameworks extracted from Lenny's P
 
 | Category | Description | Count |
 |----------|-------------|-------|
-| [Growth](#growth) | Acquisition, retention, metrics, loops | - |
-| [Product Strategy](#product-strategy) | Roadmaps, prioritization, vision | - |
-| [Discovery](#discovery) | User research, JTBD, opportunity mapping | - |
-| [Leadership](#leadership) | Managing, coaching, culture | - |
-| [Decision Making](#decision-making) | Frameworks for better decisions | - |
-| [Communication](#communication) | Storytelling, positioning, narrative | - |
-| [Team Building](#team-building) | Hiring, scaling, org design | - |
-| [Execution](#execution) | Shipping, operations, processes | - |
-| [Career](#career) | Growth, transitions, personal development | - |
+| [Growth](#growth) | Acquisition, retention, metrics, loops | 65 |
+| [Product Strategy](#product-strategy) | Roadmaps, prioritization, vision | 39 |
+| [Discovery](#discovery) | User research, JTBD, opportunity mapping | 14 |
+| [Leadership](#leadership) | Managing, coaching, culture | 53 |
+| [Decision Making](#decision-making) | Frameworks for better decisions | 43 |
+| [Communication](#communication) | Storytelling, positioning, narrative | 44 |
+| [Team Building](#team-building) | Hiring, scaling, org design | 33 |
+| [Execution](#execution) | Shipping, operations, processes | 80 |
+| [Career](#career) | Growth, transitions, personal development | 55 |
 
 ---
 
