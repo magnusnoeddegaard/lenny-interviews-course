@@ -117,3 +117,4 @@ Each framework file includes:
 - `/summary` - Get quick summaries of episodes or guests
 - `/frameworks` - Browse or search the frameworks library
 - `/extract-framework` - Extract frameworks from transcripts (batch processing)
+- `/random` - Get a random insight, quote, or framework for daily inspiration
