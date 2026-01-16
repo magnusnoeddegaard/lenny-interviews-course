@@ -80,9 +80,11 @@ This is a subtle but important concept. Would you like me to explain
 more before we continue?
 ```
 
-### Step 6: Summarize Results
-At the end:
+### Step 6: Summarize Results and Log Progress
 
+At the end of the quiz:
+
+**1. Present Results:**
 ```
 ## Quiz Complete!
 
@@ -95,11 +97,37 @@ At the end:
 ### Review Recommended
 - Revisit [topic] - consider re-reading [episode]
 - The distinction between [X] and [Y] is worth another look
+```
+
+**2. Log to Quiz History:**
+
+1. Check if `progress/quiz-history.md` exists. If not, create it with the template header.
+
+2. Append to the Score Log table:
+   ```
+   | YYYY-MM-DD | [Topic] | X% | correct | total | Strength1, Strength2 | ReviewArea1, ReviewArea2 |
+   ```
+
+3. Update the Topic Performance table:
+   - If topic exists: Update Attempts (+1), Best Score (if new best), Avg Score (recalculate), Last Attempt
+   - If topic is new: Add new row with current data
+
+**3. Show Progress Update:**
+```
+---
+
+**Progress tracked!** This is quiz #X on [topic].
+
+Your [topic] stats:
+- Attempts: X
+- Best score: Y%
+- Average: Z%
 
 ### Next Steps
-- Try /learn [weak topic] to strengthen understanding
-- Take this quiz again in a few days to reinforce
-- Move on to /quiz [next topic] if ready
+- Review weak areas: `/learn [review-topic]`
+- Take notes: `/note [topic]`
+- See all progress: `/progress`
+- Try another topic: `/quiz [new topic]`
 ```
 
 ## Question Quality Guidelines
