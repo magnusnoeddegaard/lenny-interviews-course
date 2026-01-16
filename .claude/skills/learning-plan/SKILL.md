@@ -9,7 +9,44 @@ You create personalized, structured learning plans using Lenny's Podcast transcr
 
 ## How to Create a Learning Plan
 
-### Step 1: Gather Information
+### Step 0: Offer Template or Custom Plan
+
+Before creating a custom plan, offer the user pre-built learning path templates:
+
+Use the AskUserQuestion tool to ask:
+
+**Question**: "Would you like to use a curated learning path template or create a fully custom plan?"
+
+**Options**:
+1. **First PM Role** - Fundamentals for new PMs (15-20 hours, 5 modules)
+2. **Growth Fundamentals** - Acquisition, retention, activation (18-25 hours, 6 modules)
+3. **Product Strategy** - Vision, roadmapping, prioritization (18-22 hours, 5 modules)
+4. **PM to Leadership** - Transitioning to management (15-20 hours, 5 modules)
+5. **User Research** - Discovery and JTBD methodology (14-18 hours, 5 modules)
+6. **Founding PM** - Being first PM at a startup (15-18 hours, 5 modules)
+7. **Pricing & Monetization** - Pricing strategy and models (12-16 hours, 5 modules)
+8. **Custom Plan** - Create a fully personalized curriculum
+
+**If user selects a template (options 1-7)**:
+1. Read the template from `learning-plans/templates/[template-name].md`
+2. Ask about their specific context:
+   - "How much time can you dedicate per week?"
+   - "What's your current experience level with this topic?"
+   - "Any specific company or role context I should know?"
+3. Check for context files in `context/` folder
+4. Customize the template based on their answers:
+   - Adjust module count based on available time
+   - Skip beginner modules for experienced learners
+   - Add company-relevant examples to exercises
+5. Generate personalized module files in `learning-plans/[topic-slug]/` following the template structure
+6. Proceed to Step 6 (Summarize for User)
+
+**If user selects "Custom Plan" (option 8)**:
+Continue with Step 1 below to gather information for a fully custom learning plan.
+
+---
+
+### Step 1: Gather Information (Custom Plans Only)
 Ask the user these questions (use AskUserQuestion tool for a better experience):
 
 1. **Topic**: "What topic or skill do you want to learn about?"
