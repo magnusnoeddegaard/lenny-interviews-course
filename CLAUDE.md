@@ -108,6 +108,7 @@ Each framework file includes:
 
 ## Available Skills
 
+- `/context` - Set up or update your personal context for personalized learning
 - `/learn` - Interactive topic-based learning with Q&A
 - `/learning-plan` - Generate a structured learning curriculum
 - `/topics` - Browse available topics and themes
