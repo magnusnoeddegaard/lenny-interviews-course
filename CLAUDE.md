@@ -66,6 +66,22 @@ learning-plans/[topic-name]/
 └── ...
 ```
 
+### Pre-Built Templates
+
+The `learning-plans/templates/` folder contains ready-to-use learning paths:
+
+| Template | Target Audience |
+|----------|----------------|
+| `first-pm-role.md` | New PMs, career transitioners |
+| `growth-fundamentals.md` | Growth PMs, founders |
+| `product-strategy.md` | Mid-to-senior PMs |
+| `pm-to-leadership.md` | Senior ICs becoming managers |
+| `user-research.md` | PMs improving discovery skills |
+| `founding-pm.md` | First PM at startups |
+| `pricing-and-monetization.md` | Revenue-focused PMs |
+
+Use `/learning-plan` to select and customize a template, or browse them directly for self-directed study.
+
 ## Citation Format
 
 When referencing podcast content, always cite:
@@ -106,8 +122,26 @@ Each framework file includes:
 2. Browse by category in the appropriate subdirectory
 3. Use `/frameworks [topic]` to search the library
 
+## Applied Frameworks Output
+
+When users apply frameworks to their situation using `/apply`, output is saved to `applied/`:
+```
+applied/
+├── [framework-name]-[date].md    # Personalized action plans
+└── ...
+```
+
+Each applied framework file includes:
+- User's context summary
+- How the framework applies to their situation
+- Concrete next steps (this week, next month, ongoing)
+- Potential challenges specific to their context
+- Filled-in templates/worksheets where applicable
+- Success metrics to track
+
 ## Available Skills
 
+- `/apply` - Apply a framework to your specific situation and create an action plan
 - `/context` - Set up or update your personal context for personalized learning
 - `/learn` - Interactive topic-based learning with Q&A
 - `/learning-plan` - Generate a structured learning curriculum
