@@ -98,13 +98,40 @@ Each review improves the document. The goal is to identify fatal flaws early, be
 
 5. **Skipping the problem quantification** - Ideally, quantify the problem with data that shows people would pay to solve it.
 
+## Jason Shah's PR-FAQ Structure
+
+Jason Shah, who worked at Amazon, provides an additional structural template for the press release itself:
+
+1. **Introduction** - Get right to the point, announce the product
+2. **Problem** - Describe the problem in one clear paragraph
+3. **Solution** - Briefly describe the product
+4. **Customer Quote** - Put yourself in the shoes of a specific customer. "What exactly is he going to say when he has access to this, and how's it different than his life today?"
+5. **Leadership Quote** - How does this fit into strategy in a way you'd express publicly but is true to internal sensibilities
+6. **Call to Action** - Not just "download here" but specific: "This will be available to customers next month. They can go access these portals within these Whole Food stores at this state."
+
+**Writing Guidelines from Amazon Training:**
+- Never use the word "great" or similar vague adjectives
+- Use numbers instead of adjectives
+- Practice strict concision: "kill your darlings"
+- Every employee goes through a business writing class with tips about concision and specificity
+- "Fewer words means every word is 10 pounds in weight instead of one"
+
+The customer quote is particularly important—it forces you out of the trap of thinking you are always the customer. If you write the quote for yourself, you might only represent a small segment of your total addressable market.
+
 ## Source
 
+**Primary Source:**
 - **Guest**: Bill Carr
 - **Episode**: "Unpacking Amazon's unique ways of working | Bill Carr (author of Working Backwards)"
 - **Key Discussion**: (00:35:37) - Full explanation of Working Backwards and PR-FAQ process
 - **YouTube**: [Watch on YouTube](https://www.youtube.com/watch?v=S9WHQa_AJQo)
 - **Resource**: Template available at workingbackwards.com/resources
+
+**Additional Source:**
+- **Guest**: Jason Shah
+- **Episode**: "Building a meaningful career | Jason Shah (Airbnb, Amazon, Microsoft, Alchemy)"
+- **Key Discussion**: (00:22:14) - Detailed PR-FAQ structure and writing guidelines
+- **YouTube**: [Watch on YouTube](https://www.youtube.com/watch?v=nMsA5VeLoOM)
 
 ## Related Frameworks
 
