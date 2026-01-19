@@ -124,6 +124,15 @@ For tactical questions, the board provides immediate value:
 - **Key Discussion**: (40:51-44:45) - Personal board of directors concept and career advice
 - **YouTube**: [Watch on YouTube](https://www.youtube.com/watch?v=X-83gvgVaWc)
 
+### Additional Source
+
+- **Guest**: Jeffrey Pfeffer
+- **Episode**: "The paths to power: How to grow your influence and advance your career | Jeffrey Pfeffer (Stanford)"
+- **Key Discussion**: (01:17:28) - Recommends building a personal board of directors for coaching, advice, and accountability when developing power skills
+- **YouTube**: [Watch on YouTube](https://www.youtube.com/watch?v=etVCBDRXUH8)
+
+Pfeffer emphasizes: "Get a coach. Get a personal board of directors... Get people who will give you advice, give you social support, and hold you accountable. It's hard to do anything on your own."
+
 ## Related Frameworks
 
 - [Mentor Stable](mentor-stable.md) - Building a portfolio of 3-4 mentors

@@ -65,6 +65,13 @@ Actionable steps for implementing friction logging:
 - **Key Discussion**: (00:26:09) - Detailed explanation of friction logging process at Stripe
 - **YouTube**: [Watch on YouTube](https://www.youtube.com/watch?v=F0_IKKY3HCk)
 
+### Additional Source
+
+- **Guest**: Katie Dill
+- **Episode**: "Building beautiful products with Stripe's Head of Design | Katie Dill (Stripe, Airbnb, Lyft)"
+- **Key Discussion**: (00:35:20) - Description of friction logging within the Essential Journeys program, including the tagging system for severity and integration with journey scoring
+- **YouTube**: [Watch on YouTube](https://www.youtube.com/watch?v=gfEEcssu304)
+
 ## Related Frameworks
 
 - Walk the Store - Company-wide product review sessions

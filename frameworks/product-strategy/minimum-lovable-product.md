@@ -82,6 +82,20 @@ The progression works as milestones:
 - **Key Discussion**: (00:43:59) - Elena describes how "viability is left back in 2010s" and MLP is now the standard
 - **YouTube**: [Watch on YouTube](https://www.youtube.com/watch?v=IHwS2By9UKM)
 
+### Additional Source
+
+- **Guest**: Jiaona Zhang
+- **Episode**: "Building minimum lovable products, stories from WeWork & Airbnb, and thriving as a PM | Jiaona Zhang"
+- **Key Discussion**: (00:17:10 - 00:20:45) - JZ popularized the MLP concept and explains it depends on your competitive context
+- **YouTube**: [Watch on YouTube](https://www.youtube.com/watch?v=gLFZNzeylCc)
+
+**JZ's Key Additions:**
+- The quality bar depends on what users' alternatives are (competing against spreadsheets vs. competing against other polished products)
+- Different users have different tolerance (designers vs. finance teams)
+- "People would actually respect this idea of 'You've given me minimal lovable in five areas as opposed to minimal viable in 15 areas.'"
+- Focus on doing fewer things excellently rather than many things adequately
+- Use your ecosystem (partners, integrations) to complete the lovable experience if you can't do it yourself
+
 ## Related Frameworks
 
 - [Problem-First Approach](../execution/problem-first-approach.md) - Start with user problems, not technology

@@ -135,6 +135,21 @@ When everyone understands each other's operating style:
 - **YouTube**: [Watch on YouTube](https://www.youtube.com/watch?v=bvF0ZM8DjuI)
 - **Resource**: Download the template at alisacohn.com/lenny
 
+### Additional Source: Keith Yandell
+
+Keith Yandell at DoorDash calls his version "How to Work with Keith" and shares it proactively with new hires. His document covers:
+
+1. **Expectations and traits of successful people** at DoorDash
+2. **Areas he's working to improve** (e.g., being argumentative for sport as a former litigator)
+3. **Commitments to his team** (e.g., "I will help you find your next job, even if it's not at DoorDash")
+
+CMO Kofi Amoo-Gottfried cited the document as a key factor in his decision to join—the transparency about growth areas and genuine investment in people's careers signaled the kind of leader he wanted to work with.
+
+- **Guest**: Keith Yandell
+- **Episode**: "Leading with empathy | Keith Yandell (DoorDash, Uber)"
+- **Key Discussion**: (18:45) - Description of the "How to Work with Keith" document
+- **YouTube**: [Watch on YouTube](https://www.youtube.com/watch?v=tlCK9TuALtk)
+
 ## Related Frameworks
 
 - [Founder Prenup](founder-prenup.md) - Deeper alignment questions for co-founder relationships

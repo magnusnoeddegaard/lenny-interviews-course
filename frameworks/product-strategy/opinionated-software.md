@@ -87,6 +87,14 @@ Opinionated software operates on three principles:
 - **Key Discussion**: (46:54-50:59) - Discussion of opinionated software philosophy and examples
 - **YouTube**: [Watch on YouTube](https://www.youtube.com/watch?v=gCEaUfZUuI0)
 
+### Additional Source
+
+- **Guest**: Karri Saarinen
+- **Episode**: "Inside Linear: Building with taste, craft, and focus | Karri Saarinen (co-founder, designer, CEO)"
+- **Key Discussion**: (00:39:02-00:41:23) - Linear's approach to opinionated software and why it matters for productivity tools
+- **YouTube**: [Watch on YouTube](https://www.youtube.com/watch?v=4muxFVZ4XfM)
+- **Key Quote**: "We like to provide this good default or good opinions. Like, this is how the feature works and this is how the workflow works. So you, as a user or as a team don't have to think about it and you can focus on the work you do."
+
 ## Related Frameworks
 
 - [Opinionated Defaults](../growth/opinionated-defaults.md) - Related concept about guiding users through defaults

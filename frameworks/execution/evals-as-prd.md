@@ -68,6 +68,15 @@ For product teams working with AI:
 - **Additional Context**: (00:07:39) - How enterprises should think about evals
 - **YouTube**: [Watch on YouTube](https://www.youtube.com/watch?v=ja6fWTDPQl4)
 
+### Additional Source
+
+- **Guest**: Karina Nguyen
+- **Episode**: "OpenAI researcher on why soft skills are the future of work"
+- **Key Discussion**: (00:18:07) - Teaching product teams how evals integrate; (00:21:02) - Practical eval workflows with spreadsheets and ground truth labels
+- **YouTube**: [Watch on YouTube](https://www.youtube.com/watch?v=DeskgjrLxxs)
+
+Karina describes how at OpenAI, researchers teach product managers to build evals: "I do ask product managers... to go through some of the user feedback maybe or think of various user conversations that should have triggered [a behavior]... And you have this ground truth label." She emphasizes deterministic evals (pass/fail for specific behaviors) and human evaluations (win rates comparing model outputs).
+
 ## Related Frameworks
 
 - [Working Backwards / PR-FAQ](working-backwards-prfaq.md) - Start with desired outcomes

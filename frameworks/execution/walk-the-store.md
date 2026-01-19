@@ -63,6 +63,13 @@ Actionable steps for implementing Walk the Store:
 - **Key Discussion**: (00:39:10) - Description of Walk the Store practice at Stripe
 - **YouTube**: [Watch on YouTube](https://www.youtube.com/watch?v=F0_IKKY3HCk)
 
+### Additional Source
+
+- **Guest**: Katie Dill
+- **Episode**: "Building beautiful products with Stripe's Head of Design | Katie Dill (Stripe, Airbnb, Lyft)"
+- **Key Discussion**: (00:33:16) - Expanded description of Walk the Store within the Essential Journeys program, including quarterly cadence, scoring rubrics, and PQR calibration meetings
+- **YouTube**: [Watch on YouTube](https://www.youtube.com/watch?v=gfEEcssu304)
+
 ## Related Frameworks
 
 - Friction Logging - Individual practice of documenting UX issues
