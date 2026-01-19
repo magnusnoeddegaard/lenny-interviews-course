@@ -1,0 +1,211 @@
+{
+  "main": {
+    "id": "4114824e62f45449",
+    "type": "split",
+    "children": [
+      {
+        "id": "7ffc731ebfcde381",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "51796171369a68bb",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f500b4f49017ab39",
+    "type": "split",
+    "children": [
+      {
+        "id": "d54c132a1216de8d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e43da7d2262186d8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "82a620aad061abad",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "b1245b69c183fa5c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "31751ea247150ab7",
+    "type": "split",
+    "children": [
+      {
+        "id": "1c1e6268aa5685b3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1b2308e5b78adf2c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "dac3326d76986259",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "13ccbe9f44c30342",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "3fe7ff14f7c2e859",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "86553e6f3ae09918",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "51796171369a68bb",
+  "lastOpenFiles": [
+    "applied",
+    "progress/quiz-history.md",
+    "progress/notes",
+    "progress/learning-sessions.md",
+    "progress/completed-modules.md",
+    "progress/bookmarks.md",
+    "progress",
+    "learning-plans/templates/user-research.md",
+    "learning-plans/templates/README.md",
+    "learning-plans/templates/product-strategy.md",
+    "learning-plans/templates/pricing-and-monetization.md",
+    "learning-plans/templates/pm-to-leadership.md",
+    "learning-plans/templates/growth-fundamentals.md",
+    "learning-plans/templates/founding-pm.md",
+    "learning-plans/templates/first-pm-role.md",
+    "learning-plans/templates",
+    "frameworks/team-building/whiteboard-reteaming.md",
+    "frameworks/team-building/two-rep-ab-test.md",
+    "frameworks/team-building/ten-minute-pm-test.md",
+    "frameworks/team-building/technical-cofounder-valuation.md",
+    "frameworks/team-building/stretch-vp-principle.md",
+    "frameworks/team-building/staff-for-belief.md",
+    "frameworks/team-building/small-teams-clear-missions.md",
+    "frameworks/team-building/small-bus-metaphor.md",
+    "frameworks/team-building/skills-first-hiring.md",
+    "frameworks/team-building/five-patterns-of-reteaming.md",
+    "frameworks/team-building/first-review-feedback-question.md",
+    "frameworks/team-building/fast-thinking-slow-thinking-teams.md",
+    "frameworks/team-building/convince-not-to-join.md"
+  ]
+}
