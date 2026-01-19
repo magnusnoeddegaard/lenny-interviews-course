@@ -49,6 +49,33 @@ Structure your teaching:
 - Dig deeper into specific aspects
 - Always cite your sources
 
+### Step 6: Log Session Completion
+
+When the learning session ends (user indicates they're done, says "thanks", "that's all", or moves on):
+
+1. **Create progress file if needed**: Check if `progress/learning-sessions.md` exists. If not, create it with the template header.
+
+2. **Gather session data**:
+   - Topic covered
+   - Guest names from episodes referenced
+   - 2-3 key insights shared (brief summary)
+
+3. **Append to learning sessions log**: Add a new row to the table:
+   ```
+   | YYYY-MM-DD | [Topic] | Guest1, Guest2, ... | Brief insight summary |
+   ```
+
+4. **Confirm and suggest next steps**:
+   ```
+   Session logged! You've completed X learning sessions total.
+
+   What's next?
+   - Test yourself: `/quiz [topic]`
+   - Take notes: `/note [topic]`
+   - Bookmark favorites: `/bookmark [episode]`
+   - See progress: `/progress`
+   ```
+
 ## Citation Format
 Always attribute insights to specific guests:
 > *"[Guest Name] explains in '[Episode Title]' (timestamp): '[Quote or paraphrase]'"*
