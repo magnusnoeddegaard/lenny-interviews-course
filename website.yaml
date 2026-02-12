@@ -1,0 +1,23 @@
+version: 1
+repo:
+  slug: "lenny-course"
+  title: "Lenny's Podcast PM Course"
+  description: "595+ frameworks and 7 learning paths from 284 episodes of Lenny's Podcast"
+  github_url: "https://github.com/magnusnoeddegaard/lenny-interviews-course"
+
+collections:
+  - id: "frameworks"
+    title: "Frameworks"
+    description: "Mental models and frameworks from top product leaders"
+    base_path: "frameworks"
+    url_prefix: "frameworks"
+    include: ["career/*.md", "communication/*.md", "decision-making/*.md", "discovery/*.md", "execution/*.md", "growth/*.md", "leadership/*.md", "product-strategy/*.md", "team-building/*.md"]
+    exclude: ["index.md", ".extraction-progress.md"]
+
+  - id: "learning-plans"
+    title: "Learning Plans"
+    description: "Structured curricula for different PM career stages"
+    base_path: "learning-plans/templates"
+    url_prefix: "learning-plans"
+    include: ["*.md"]
+    exclude: ["README.md"]
